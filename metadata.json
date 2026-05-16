@@ -1,0 +1,6 @@
+{
+  "name": "HSC Practice Up",
+  "description": "Premium Bangla MCQ practice platform for HSC and admission seekers with PDF-to-MCQ extraction and smart stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
